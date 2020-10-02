@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'KKTableCollectionViewDataSource'
   s.version          = '0.1.0'
-  s.summary          = 'KKTableCollectionViewDataSource.'
+  s.summary          = 'KKTableCollectionViewDataSource是对tableview的封装'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+对TableView进行封装，免写数据源和代理方式，实现数据驱动UI，并且集成下拉刷新和下来加载以及空视图
                        DESC
 
   s.homepage         = 'https://github.com/KKWONG1990/KKTableCollectionViewDataSource'
@@ -38,5 +38,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'MJRefresh'
 end
