@@ -24,6 +24,7 @@
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		B2398225DFD1205BB22C2D76 /* Pods_KKTableCollectionViewDataSource_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA0C8BFDB4CBE2DEFED41C59 /* Pods_KKTableCollectionViewDataSource_Example.framework */; };
+		C8020B9525273B2A00BCAE1B /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C8020B9325273B2900BCAE1B /* TableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,8 @@
 		AADA0D005823DDB555191600 /* Pods-KKTableCollectionViewDataSource_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KKTableCollectionViewDataSource_Example.debug.xcconfig"; path = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B6020023C33F7A2F055A26B1 /* KKTableCollectionViewDataSource.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KKTableCollectionViewDataSource.podspec; path = ../KKTableCollectionViewDataSource.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C7AA0F5092A9A271DF4840B0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C8020B9325273B2900BCAE1B /* TableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
+		C8020B9425273B2A00BCAE1B /* TableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
 		D578CC7BA03E53697BA2CE63 /* Pods-KKTableCollectionViewDataSource_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KKTableCollectionViewDataSource_Tests.release.xcconfig"; path = "Target Support Files/Pods-KKTableCollectionViewDataSource_Tests/Pods-KKTableCollectionViewDataSource_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -137,6 +140,8 @@
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* KKViewController.h */,
 				6003F5A6195388D20070C39A /* KKViewController.m */,
+				C8020B9425273B2A00BCAE1B /* TableViewCell.h */,
+				C8020B9325273B2900BCAE1B /* TableViewCell.m */,
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
@@ -366,6 +371,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F59E195388D20070C39A /* KKAppDelegate.m in Sources */,
+				C8020B9525273B2A00BCAE1B /* TableViewCell.m in Sources */,
 				6003F5A7195388D20070C39A /* KKViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);
