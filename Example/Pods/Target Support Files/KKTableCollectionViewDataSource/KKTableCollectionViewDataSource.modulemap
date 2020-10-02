@@ -1,0 +1,6 @@
+framework module KKTableCollectionViewDataSource {
+  umbrella header "KKTableCollectionViewDataSource-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - KKTableCollectionViewDataSource (0.1.0)
+
+DEPENDENCIES:
+  - KKTableCollectionViewDataSource (from `../`)
+
+EXTERNAL SOURCES:
+  KKTableCollectionViewDataSource:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KKTableCollectionViewDataSource: 7e4a04c2d81da0ef5f4287b03234ed585762d9c2
+
+PODFILE CHECKSUM: 63dc3bafbe0d37e1aee2a5c71ca26b6bd5958145
+
+COCOAPODS: 1.10.0.rc.1

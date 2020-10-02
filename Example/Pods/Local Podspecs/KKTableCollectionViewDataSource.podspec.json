@@ -1,0 +1,22 @@
+{
+  "name": "KKTableCollectionViewDataSource",
+  "version": "0.1.0",
+  "summary": "A short description of KKTableCollectionViewDataSource.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KKWONG1990/KKTableCollectionViewDataSource",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KKWONG1990": "kkwong90@163.com"
+  },
+  "source": {
+    "git": "https://github.com/KKWONG1990/KKTableCollectionViewDataSource.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KKTableCollectionViewDataSource/Classes/**/*"
+}

@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		355FE11492795A1257D9E071 /* Pods-KKTableCollectionViewDataSource_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KKTableCollectionViewDataSource_Tests.debug.xcconfig"; path = "Target Support Files/Pods-KKTableCollectionViewDataSource_Tests/Pods-KKTableCollectionViewDataSource_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		40858EC0D28AFA833F2D6E89 /* Pods-KKTableCollectionViewDataSource_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KKTableCollectionViewDataSource_Example.release.xcconfig"; path = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example.release.xcconfig"; sourceTree = "<group>"; };
-		4915EEE8A67039E0C4992CF9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4915EEE8A67039E0C4992CF9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* KKTableCollectionViewDataSource_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KKTableCollectionViewDataSource_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -64,8 +64,8 @@
 		997FBC3F240E2D67011899C8 /* Pods_KKTableCollectionViewDataSource_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KKTableCollectionViewDataSource_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA0C8BFDB4CBE2DEFED41C59 /* Pods_KKTableCollectionViewDataSource_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KKTableCollectionViewDataSource_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AADA0D005823DDB555191600 /* Pods-KKTableCollectionViewDataSource_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KKTableCollectionViewDataSource_Example.debug.xcconfig"; path = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		B6020023C33F7A2F055A26B1 /* KKTableCollectionViewDataSource.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = KKTableCollectionViewDataSource.podspec; path = ../KKTableCollectionViewDataSource.podspec; sourceTree = "<group>"; };
-		C7AA0F5092A9A271DF4840B0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B6020023C33F7A2F055A26B1 /* KKTableCollectionViewDataSource.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KKTableCollectionViewDataSource.podspec; path = ../KKTableCollectionViewDataSource.podspec; sourceTree = "<group>"; };
+		C7AA0F5092A9A271DF4840B0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D578CC7BA03E53697BA2CE63 /* Pods-KKTableCollectionViewDataSource_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KKTableCollectionViewDataSource_Tests.release.xcconfig"; path = "Target Support Files/Pods-KKTableCollectionViewDataSource_Tests/Pods-KKTableCollectionViewDataSource_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -193,7 +193,6 @@
 				355FE11492795A1257D9E071 /* Pods-KKTableCollectionViewDataSource_Tests.debug.xcconfig */,
 				D578CC7BA03E53697BA2CE63 /* Pods-KKTableCollectionViewDataSource_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -449,7 +449,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -482,7 +482,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
