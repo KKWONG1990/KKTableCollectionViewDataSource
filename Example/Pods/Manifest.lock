@@ -1,5 +1,5 @@
 PODS:
-  - KKTableCollectionViewDataSource (0.1.0):
+  - KKTableCollectionViewDataSource (0.1.1):
     - MJRefresh
   - MJRefresh (3.5.0)
 
@@ -15,9 +15,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KKTableCollectionViewDataSource: 8696fec77e6374d9581aefc3a714e5e7dc5a4a3d
+  KKTableCollectionViewDataSource: 01859366f57fe7cfa89931d9eea2f485744f91f5
   MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
 
-PODFILE CHECKSUM: 4303242c476198603b6f52f5ab4084fa2e89f92f
+PODFILE CHECKSUM: 63dc3bafbe0d37e1aee2a5c71ca26b6bd5958145
 
 COCOAPODS: 1.10.0.rc.1

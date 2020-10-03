@@ -123,7 +123,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		014C971941ED6668F3A725244278D917 /* Pods_KKTableCollectionViewDataSource_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KKTableCollectionViewDataSource_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		014C971941ED6668F3A725244278D917 /* Pods_KKTableCollectionViewDataSource_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_KKTableCollectionViewDataSource_Tests.framework; path = "Pods-KKTableCollectionViewDataSource_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01C1AC2131E547FB6FA54E32772EFDE9 /* MJRefreshAutoStateFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoStateFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m; sourceTree = "<group>"; };
 		036BC2C6D44A43216A05C023228F7245 /* MJRefreshHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshHeader.m; path = MJRefresh/Base/MJRefreshHeader.m; sourceTree = "<group>"; };
 		03EADC078CB0BF2D8AE89723A8E3BE8C /* MJRefresh.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MJRefresh.release.xcconfig; sourceTree = "<group>"; };
@@ -170,19 +170,19 @@
 		650EF41EA0F1F8FF80E7AAE72C9551CD /* UIView+MJExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+MJExtension.h"; path = "MJRefresh/UIView+MJExtension.h"; sourceTree = "<group>"; };
 		66C1A9FA0B2B94A78A3AF1A9438D524F /* MJRefreshStateHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshStateHeader.h; path = MJRefresh/Custom/Header/MJRefreshStateHeader.h; sourceTree = "<group>"; };
 		66F4CDA208C437CA7F686BA45F8BEA7F /* KKTableCollectionViewDataSource-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KKTableCollectionViewDataSource-prefix.pch"; sourceTree = "<group>"; };
-		6C6B56E407DEFD9B1E7A6A29C1D0E152 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		6C6B56E407DEFD9B1E7A6A29C1D0E152 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		6D5F6E84E0AC59FE394DFF85056CD468 /* Pods-KKTableCollectionViewDataSource_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KKTableCollectionViewDataSource_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6DAD48EA923087DD939BDDE1AB2C6749 /* Pods-KKTableCollectionViewDataSource_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KKTableCollectionViewDataSource_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		70EE0BC401ACFCDFBEB1C8E2E7CE5E9F /* KKListEmptyView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KKListEmptyView.m; path = KKTableCollectionViewDataSource/Classes/KKListEmptyView.m; sourceTree = "<group>"; };
 		712C04E79B4F66AF952A64CC0E1DB696 /* KKSection.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KKSection.m; path = KKTableCollectionViewDataSource/Classes/KKSection.m; sourceTree = "<group>"; };
 		72E86725E4528BF0B294798B8012CC7A /* MJRefreshBackStateFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshBackStateFooter.h; path = MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h; sourceTree = "<group>"; };
 		766079D35CFA8A8D8DEA2D78F22BCBAA /* Pods-KKTableCollectionViewDataSource_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-KKTableCollectionViewDataSource_Tests.modulemap"; sourceTree = "<group>"; };
-		77EAA623B1E293C3BC5F0CB42B86CC4C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		77EAA623B1E293C3BC5F0CB42B86CC4C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		7935FFDF49D307A29891FA4ED32EED8B /* MJRefreshBackFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackFooter.m; path = MJRefresh/Base/MJRefreshBackFooter.m; sourceTree = "<group>"; };
 		7A48CF32957CFE938DF43616656D51EC /* KKTableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KKTableView.h; path = KKTableCollectionViewDataSource/Classes/KKTableView.h; sourceTree = "<group>"; };
 		7ABFB026593E7260C84E4EE47D49163B /* MJRefreshNormalTrailer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshNormalTrailer.m; path = MJRefresh/Custom/Trailer/MJRefreshNormalTrailer.m; sourceTree = "<group>"; };
 		7B36D7C1F0ABB9FF3085584FD501F665 /* MJRefreshBackGifFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackGifFooter.m; path = MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m; sourceTree = "<group>"; };
-		7B7791AB2247C6F186FABB0FCBD128D4 /* Pods_KKTableCollectionViewDataSource_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KKTableCollectionViewDataSource_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B7791AB2247C6F186FABB0FCBD128D4 /* Pods_KKTableCollectionViewDataSource_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_KKTableCollectionViewDataSource_Example.framework; path = "Pods-KKTableCollectionViewDataSource_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D4FF89D262D133C15621EECE5DD329D /* KKSectionCreator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KKSectionCreator.m; path = KKTableCollectionViewDataSource/Classes/KKSectionCreator.m; sourceTree = "<group>"; };
 		7DF29F1AEC35F755D8AA549AA2506C91 /* MJRefreshAutoGifFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoGifFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m; sourceTree = "<group>"; };
 		86FC886F0A00558315877D1929396F60 /* MJRefreshHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshHeader.h; path = MJRefresh/Base/MJRefreshHeader.h; sourceTree = "<group>"; };
@@ -190,10 +190,10 @@
 		8AA57227177EB3A93E7C0890CBD9E4D9 /* KKEmptyEntityCreator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KKEmptyEntityCreator.h; path = KKTableCollectionViewDataSource/Classes/KKEmptyEntityCreator.h; sourceTree = "<group>"; };
 		8FF062FFB4FD81F316B7C342D303AB73 /* MJRefreshGifHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshGifHeader.m; path = MJRefresh/Custom/Header/MJRefreshGifHeader.m; sourceTree = "<group>"; };
 		9003BB5EE5B856F06665EAF9DDB99F7E /* MJRefreshBackFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshBackFooter.h; path = MJRefresh/Base/MJRefreshBackFooter.h; sourceTree = "<group>"; };
-		93FE661638A05136FBE78246B0BD6C47 /* KKTableCollectionViewDataSource.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KKTableCollectionViewDataSource.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93FE661638A05136FBE78246B0BD6C47 /* KKTableCollectionViewDataSource.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KKTableCollectionViewDataSource.framework; path = KKTableCollectionViewDataSource.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9750296A4BD179498AB1625CB7346C39 /* KKTableCollectionViewDataSource-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "KKTableCollectionViewDataSource-Info.plist"; sourceTree = "<group>"; };
 		9B652FD6D87B11405C41F143218EE028 /* MJRefresh-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MJRefresh-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A18DAEE75DBE17C4BFDB746BE6762E9D /* KKTableCollectionViewDataSource.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KKTableCollectionViewDataSource.debug.xcconfig; sourceTree = "<group>"; };
 		A59EFE93154F192936C26AC86A976D10 /* Pods-KKTableCollectionViewDataSource_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-KKTableCollectionViewDataSource_Example-Info.plist"; sourceTree = "<group>"; };
 		A7260AB949A8561F860F87899DFF9720 /* MJRefreshAutoFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshAutoFooter.h; path = MJRefresh/Base/MJRefreshAutoFooter.h; sourceTree = "<group>"; };
@@ -215,9 +215,9 @@
 		D819CFF84521C68C107F9BFE050774CB /* KKEmptyEntity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KKEmptyEntity.h; path = KKTableCollectionViewDataSource/Classes/KKEmptyEntity.h; sourceTree = "<group>"; };
 		D89AFD2761F589D407706890D0214358 /* MJRefreshBackStateFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackStateFooter.m; path = MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m; sourceTree = "<group>"; };
 		DB47F1B61609B052EC7D868F0637C816 /* MJRefreshBackNormalFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackNormalFooter.m; path = MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m; sourceTree = "<group>"; };
-		E49D6D248DD1CEE584E6776B9164A1B2 /* MJRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MJRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E49D6D248DD1CEE584E6776B9164A1B2 /* MJRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MJRefresh.framework; path = MJRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA8947EB8C2F1237E968D7477179BCBD /* KKTableCollectionViewDatasource.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = KKTableCollectionViewDatasource.h; path = KKTableCollectionViewDataSource/Classes/KKTableCollectionViewDatasource.h; sourceTree = "<group>"; };
-		EAD77669A76AD883372E5DEEFBFFDB3C /* KKTableCollectionViewDataSource.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = KKTableCollectionViewDataSource.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		EAD77669A76AD883372E5DEEFBFFDB3C /* KKTableCollectionViewDataSource.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = KKTableCollectionViewDataSource.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		EC2B773504A9AC949F425F7A957E4998 /* MJRefreshAutoFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoFooter.m; path = MJRefresh/Base/MJRefreshAutoFooter.m; sourceTree = "<group>"; };
 		EC31A219B753FAA7AEC063D329175429 /* MJRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefresh.h; path = MJRefresh/MJRefresh.h; sourceTree = "<group>"; };
 		ED38A4A0408A9228E7052CC958FAB0B4 /* KKContextualActionCreator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = KKContextualActionCreator.m; path = KKTableCollectionViewDataSource/Classes/KKContextualActionCreator.m; sourceTree = "<group>"; };
@@ -325,6 +325,7 @@
 				8713EEE6845C7340012917DB4D33D1CC /* Resources */,
 				B0273062697ABDD7DF15AF74C1D1DD1F /* Support Files */,
 			);
+			name = MJRefresh;
 			path = MJRefresh;
 			sourceTree = "<group>";
 		};
@@ -843,7 +844,38 @@
 			};
 			name = Debug;
 		};
-		416024B5D6416C1DA979B8217CA893AB /* Release */ = {
+		2BD6A57681E92ED5ED91F6E8C41181FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A18DAEE75DBE17C4BFDB746BE6762E9D /* KKTableCollectionViewDataSource.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource.modulemap";
+				PRODUCT_MODULE_NAME = KKTableCollectionViewDataSource;
+				PRODUCT_NAME = KKTableCollectionViewDataSource;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		666878BD7B404D9FF51BD4CC6622FF85 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 28FB6EFEF62752E1130297AAE7DCED91 /* Pods-KKTableCollectionViewDataSource_Tests.release.xcconfig */;
 			buildSettings = {
@@ -859,7 +891,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Tests/Pods-KKTableCollectionViewDataSource_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Tests/Pods-KKTableCollectionViewDataSource_Tests.modulemap";
@@ -877,7 +909,7 @@
 			};
 			name = Release;
 		};
-		43AF78CD88F5A417221AB29CA0D480CB /* Debug */ = {
+		71898890FD113F754B608B01E900A258 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6DAD48EA923087DD939BDDE1AB2C6749 /* Pods-KKTableCollectionViewDataSource_Tests.debug.xcconfig */;
 			buildSettings = {
@@ -893,7 +925,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Tests/Pods-KKTableCollectionViewDataSource_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Tests/Pods-KKTableCollectionViewDataSource_Tests.modulemap";
@@ -910,7 +942,73 @@
 			};
 			name = Debug;
 		};
-		4EBC741460BC710C963D24CAAB3BC925 /* Debug */ = {
+		8B250059123D5A9C3BAE1303ECABFE97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2559CE58C023D4BC8F08D9E4DDC69C55 /* Pods-KKTableCollectionViewDataSource_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8D9C7C60E4928BB2E509B2ECAAEEA972 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 41C67C31C92FE559600720E31AB69D20 /* KKTableCollectionViewDataSource.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource.modulemap";
+				PRODUCT_MODULE_NAME = KKTableCollectionViewDataSource;
+				PRODUCT_NAME = KKTableCollectionViewDataSource;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8DF792B5675818867C95F03EE9A5D3C6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -962,7 +1060,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -974,38 +1072,6 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
-		};
-		81085A7B56B90475BD57A06304497CB4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 41C67C31C92FE559600720E31AB69D20 /* KKTableCollectionViewDataSource.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource.modulemap";
-				PRODUCT_MODULE_NAME = KKTableCollectionViewDataSource;
-				PRODUCT_NAME = KKTableCollectionViewDataSource;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		9AC580AFB675C12944CF40B78687C592 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -1039,7 +1105,40 @@
 			};
 			name = Release;
 		};
-		A40FB7C4B9460AE765A736AB575EEB32 /* Release */ = {
+		ABBD715979605E571718B85C4B751546 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F8F1F3A6A661181F267822CF2ADB3F31 /* Pods-KKTableCollectionViewDataSource_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CE55861AB8BDFB3786DDE452F83A4836 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1088,114 +1187,17 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
-		};
-		CB2F3E54D408C870DCA49C19F3209EBA /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F8F1F3A6A661181F267822CF2ADB3F31 /* Pods-KKTableCollectionViewDataSource_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		DEFF2D73A4DB4F94DC21CAE6D9D57A3A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2559CE58C023D4BC8F08D9E4DDC69C55 /* Pods-KKTableCollectionViewDataSource_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-KKTableCollectionViewDataSource_Example/Pods-KKTableCollectionViewDataSource_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		E1C8603F5B2BEAB56DE93C988EA07B19 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A18DAEE75DBE17C4BFDB746BE6762E9D /* KKTableCollectionViewDataSource.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/KKTableCollectionViewDataSource/KKTableCollectionViewDataSource.modulemap";
-				PRODUCT_MODULE_NAME = KKTableCollectionViewDataSource;
-				PRODUCT_NAME = KKTableCollectionViewDataSource;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -1203,8 +1205,8 @@
 		0DC06D9DD41BE1DE4E5F0E45FC0D95B2 /* Build configuration list for PBXNativeTarget "KKTableCollectionViewDataSource" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E1C8603F5B2BEAB56DE93C988EA07B19 /* Debug */,
-				81085A7B56B90475BD57A06304497CB4 /* Release */,
+				2BD6A57681E92ED5ED91F6E8C41181FA /* Debug */,
+				8D9C7C60E4928BB2E509B2ECAAEEA972 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1212,8 +1214,8 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4EBC741460BC710C963D24CAAB3BC925 /* Debug */,
-				A40FB7C4B9460AE765A736AB575EEB32 /* Release */,
+				8DF792B5675818867C95F03EE9A5D3C6 /* Debug */,
+				CE55861AB8BDFB3786DDE452F83A4836 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1230,8 +1232,8 @@
 		5F4019D9A52D49A62F273900F53A4308 /* Build configuration list for PBXNativeTarget "Pods-KKTableCollectionViewDataSource_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				43AF78CD88F5A417221AB29CA0D480CB /* Debug */,
-				416024B5D6416C1DA979B8217CA893AB /* Release */,
+				71898890FD113F754B608B01E900A258 /* Debug */,
+				666878BD7B404D9FF51BD4CC6622FF85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1239,8 +1241,8 @@
 		7F949ED199641D63DA398D6C3A61230B /* Build configuration list for PBXNativeTarget "Pods-KKTableCollectionViewDataSource_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CB2F3E54D408C870DCA49C19F3209EBA /* Debug */,
-				DEFF2D73A4DB4F94DC21CAE6D9D57A3A /* Release */,
+				ABBD715979605E571718B85C4B751546 /* Debug */,
+				8B250059123D5A9C3BAE1303ECABFE97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
