@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KKTableCollectionViewDataSource'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'KKTableCollectionViewDataSource是对tableview的封装'
 
 # This description is used to generate tags and improve search results.
