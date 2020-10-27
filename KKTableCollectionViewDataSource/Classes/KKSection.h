@@ -92,6 +92,8 @@ typedef void(^CommitEditingStyleCallBack)(UITableViewCellEditingStyle editingSty
 /// 已取消选中行回调
 @property (nonatomic, copy) SelectedCallBack didDeselectRowCallBack;
 
+@property (nonatomic, copy) HeaderFooterViewCallBack headerFooterViewCallBack;
+
 @property (nonatomic, copy) CommitEditingStyleCallBack commitEditingStyleCallBack;
 
 @property (nonatomic, strong) NSArray<NSString *> * indexTitles;

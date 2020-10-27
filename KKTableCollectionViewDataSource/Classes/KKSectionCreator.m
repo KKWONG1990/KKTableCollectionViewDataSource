@@ -113,6 +113,27 @@
     };
 }
 
+- (KKSectionCreator * _Nonnull (^)(SelectedCallBack _Nonnull))didSelectRowAtIndexPath {
+    return ^(SelectedCallBack selectedCallBack) {
+        self.section.didSelectRowCallBack = selectedCallBack;
+        return self;
+    };
+}
+
+- (KKSectionCreator * _Nonnull (^)(HeaderFooterViewCallBack _Nonnull))headerFooterView {
+    return ^(HeaderFooterViewCallBack callback) {
+        self.section.headerFooterViewCallBack = callback;
+        return self;
+    };
+}
+
+- (KKSectionCreator * _Nonnull (^)(CommitEditingStyleCallBack _Nonnull))commitEditingStyle {
+    return ^(CommitEditingStyleCallBack callback) {
+        self.section.commitEditingStyleCallBack = callback;
+        return self;
+    };
+}
+
 - (KKSectionCreator * _Nonnull (^)(NSArray<NSString *> * _Nonnull))sectionIndexTitles {
     return ^(NSArray<NSString *> * titles){
         self.section.indexTitles = titles;

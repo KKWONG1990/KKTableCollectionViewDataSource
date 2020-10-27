@@ -33,6 +33,9 @@
 //                                                    .footerView([self titleView:@"footerView"])
                                                     .headerHeight(50)
                                                     .footerHeight(50)
+                                                    .didSelectRowAtIndexPath(^(NSString * data, NSIndexPath * indexPath){
+                                            NSLog(@"data = %@",data);
+                                        })
                                                     .cellForRowBlock(^(TableViewCell * cell,
                                                                        NSString * data,
                                                                        NSIndexPath * indexPath) {

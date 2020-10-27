@@ -53,7 +53,17 @@ NS_ASSUME_NONNULL_BEGIN
 /// cell_id
 - (KKSectionCreator *(^)(NSString * identifier))identifier;
 
+/// cellforrow
 - (KKSectionCreator *(^)(RowCallBack cellForRowBlock))cellForRowBlock;
+
+/// 选中行回调
+- (KKSectionCreator *(^)(SelectedCallBack selectedCallBack))didSelectRowAtIndexPath;
+
+/// 头部脚部视图回调
+- (KKSectionCreator *(^)(HeaderFooterViewCallBack headerFooterViewCallBack))headerFooterView;
+
+/// 编辑回调
+- (KKSectionCreator *(^)(CommitEditingStyleCallBack commitEditingStyleCallBack))commitEditingStyle;
 
 - (KKSectionCreator *(^)(NSArray<NSString *> *))sectionIndexTitles;
 
